@@ -1,6 +1,6 @@
 *Sentinel Forge as an internal platform used by a security/operations team*
 
-# The backend handles:
+#The backend handles:
 	authentication
 	authorization
 	incidents
@@ -12,14 +12,14 @@
 	background processing
 	telemetry
 
-# And the infrastructure underneath handles:
+#And the infrastructure underneath handles:
 	PostgreSQL
 	Redis
 	object storage
 	WebSockets
 	etc. 
 
-# What we are actually building?
+#What we are actually building?
 We are building a security/operations website where a team can manage and investigate problems.
 
 The website will have things like:
