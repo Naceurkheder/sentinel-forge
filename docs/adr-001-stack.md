@@ -1,6 +1,6 @@
-## What is Sentinel Forge?
+## What is Sentinel Forge?
 *Sentinel Forge* is a security/operations website where a team can manage and investigate problems.
-The website will have things like:
+### The website will have things like:
 	Incidents → problems/security events that happened
 	Services → systems/apps being monitored
 	Detections → suspicious things the system found
